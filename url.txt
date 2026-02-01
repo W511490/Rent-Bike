@@ -1,1 +1,0 @@
-https://rent-bike-1.streamlit.app/
