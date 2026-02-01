@@ -5,7 +5,7 @@ Project Analysis Rent Bike using dummy data from Kaggle
 ```
 mkdir analysis_rent_bike
 cd analysis_rent_bike
-python3 -m venv env
+pip install numpy pandas matplolib seaborn scikit-learn statsmodels streamlit
 pipreqs .
 ```
 
